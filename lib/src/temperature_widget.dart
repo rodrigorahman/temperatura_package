@@ -28,7 +28,7 @@ class TemperatureWidget extends StatelessWidget {
             location!,
             style: TextStyle(
               fontSize: 16,
-              color: textColor ?? Colors.red,
+              color: textColor ?? Colors.blue,
               fontWeight: FontWeight.w500,
             ),
           ),
